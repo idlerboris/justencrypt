@@ -1,2 +1,2 @@
-# simpleencryptor
-Just simply encrypt data
+# Just Encrypt
+It allows simply encrypt your files.
